@@ -1,0 +1,10 @@
+{
+  "name": "db",
+  "connector": "mongodb",
+  "url": "mongodb://devuser:devuser14@ds331735.mlab.com:31735/gamenight_dev",
+  "host": "ds331735.mlab.com",
+  "port": 31735,
+  "user": "devuser",
+  "password": "devuser14",
+  "database": "gamenight_dev"
+}
